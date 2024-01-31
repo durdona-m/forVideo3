@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  height: 720px;
+  background: #f3d7b7;
+}
+.menu {
+  display: flex;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  display: flex;
+  margin-left: 600px;
+  gap: 40px;
+  margin-top: 23.29px;
+}
+.maket1 {
+  margin-left: 46px;
+  margin-top: 23.29px;
+}
+
+.About-Us {
+  margin-left: 50px;
+  margin-top: 182.39px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.coffe1 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  margin-left: 50px;
+  width: 372px;
+  height: 85.366px;
+  flex-shrink: 0;
+}
+.menu2 {
+  display: flex;
+  position: relative;
+}
+.tea {
+  width: 660px;
+  height: 390px;
+  flex-shrink: 0;
+
+  margin-top: 182.29px;
+  margin-left: 70px;
+}
+.horse {
+  position: absolute;
+  top: 100px;
+  left: 400px;
+  width: 160px;
+  height: 160px;
+  transform: rotate(-25deg);
+  flex-shrink: 0;
+}
+.commitment {
+  display: flex;
+  justify-content: space-between;
+}
+.ours {
+  margin-top: 160px;
+  justify-content: space-between;
+}
+.cup {
+  margin-top: 160px;
+}
+.our2 {
+  color: #333;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin-top: 64px;
+}
+.our1 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-variant: all-small-caps;
+}
+
+.quality23 {
+margin-top: 40px;
+}
+.text1 {
+margin-top: 40px;
+}
+.fotrer {
+    width: 1200px;
+    height: 160px;
+    flex-shrink: 0;
+    background: #f3d7b7;
+    display: flex;
+  }
+  .makett {
+    margin-top: 62px;
+    margin-left: 42px;
+  }
+  .texts {
+    display: flex;
+    margin-top: 71px;
+    gap: 40px;
+    justify-content: center;
+    margin-left: 200px;
+  }
+  .text1 {
+    color: #333;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .foot-img {
+    margin-top: 71px;
+    margin-left: 100px;
+    gap: 30px;
+    
+  }

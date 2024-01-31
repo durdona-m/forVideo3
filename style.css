@@ -1,0 +1,195 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cofee {
+  margin-top: 22px;
+  background: #f3d7b7;
+  width: 1200px;
+  height: 800px;
+  flex-shrink: 0;
+}
+.maket1 {
+  margin-top: 22px;
+}
+.maket-coffe {
+  margin-left: 50px;
+}
+ul {
+  display: flex;
+  margin-top: 22px;
+  justify-content: space-between;
+  display: flex;
+  margin-left: 600px;
+  gap: 40px;
+}
+li {
+  list-style-type: none;
+}
+.menu {
+  display: flex;
+}
+.Good {
+  margin-top: 176px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.good1 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  margin-top: 47px;
+}
+.btn {
+  display: inline-flex;
+  padding: 16px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 100px;
+  background: #0a775f;
+  margin-top: 47px;
+}
+.good-coffe {
+  display: flex;
+}
+.coofe1 {
+  margin-top: 170px;
+  margin-left: 216px;
+  width: 500px;
+  height: 640px;
+  flex-shrink: 0;
+}
+.coofe-fhoto {
+  position: relative;
+}
+.horse {
+  position: absolute;
+  top: 90px;
+  left: 130px;
+  width: 160px;
+  height: 160px;
+  transform: rotate(-25deg);
+  flex-shrink: 0;
+}
+.our-collection {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  font-variant: all-small-caps;
+}
+.card1 {
+  display: flex;
+}
+.Danche {
+  margin-top: 163px;
+  color: #333;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-variant: all-small-caps;
+}
+.kofe1 {
+  color: #333;
+  font-family: Roboto;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px; /* 154.545% */
+}
+.danche-photo:hover {
+  transform: scale(0.75);
+  cursor: pointer;
+}
+.Gran-Espresso {
+  margin-top: 121px;
+  color: #333;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-variant: all-small-caps;
+  margin-left: 50px;
+}
+.kofe2 {
+  color: #333;
+  font-family: Roboto;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px; /* 154.545% */
+  margin-left: 50px;
+}
+.card2 {
+  display: flex;
+}
+.kopi:hover {
+  transform: scale(0.75);
+  cursor: pointer;
+}
+.colection {
+  margin-left: 160.5px;
+}
+.fotrer {
+  width: 1200px;
+  height: 160px;
+  flex-shrink: 0;
+  background: #f3d7b7;
+  display: flex;
+}
+.makett {
+  margin-top: 62px;
+  margin-left: 42px;
+}
+.texts {
+  display: flex;
+  margin-top: 71px;
+  gap: 40px;
+  justify-content: center;
+  margin-left: 200px;
+}
+.text1 {
+  color: #333;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.foot-img {
+  margin-top: 71px;
+  margin-left: 100px;
+  gap: 30px;
+  
+}
+a{
+    text-decoration: none;
+    color: rebeccapurple;
+}
